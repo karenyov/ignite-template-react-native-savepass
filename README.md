@@ -16,3 +16,10 @@ npm install
 ```sh
 expo start
 ```
+
+# Screenshots
+<p align="center">
+  <img src="https://github.com/karenyov/ignite-template-react-native-savepass/blob/main/app.gif" width="300">
+</p>
+
+
